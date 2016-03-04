@@ -17,7 +17,7 @@ Our [API reference documentation](/api/) is meant to provide detailed version in
     <ul>
         <li><a href="https://nodejs.org/docs/latest-v0.12.x/api/">Node.js 0.12.x</a></li>
         <li><a href="https://nodejs.org/docs/latest-v0.10.x/api/">Node.js 0.10.x</a></li>
-        <li><a href="https://nodejs.org/docs/">all versions</a></li>
+        <li><a href="https://nodejs.org/docs/">all version</a></li>
     </ul>
 </div>
 
